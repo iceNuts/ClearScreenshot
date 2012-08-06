@@ -1,0 +1,9 @@
+Package: com.icenuts.snapshotter
+Name: screenshotNoAssistiveTouch
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: _iceNuts
+Author: _iceNuts
+Section: Tweaks
